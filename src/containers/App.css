@@ -1,0 +1,46 @@
+html {
+  margin: 0px;
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  background-color: black;
+}
+
+body {
+  margin: 0px;
+}
+
+.header-container {
+  margin: 0px;
+  display: flex;
+}
+
+.header-container {
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-container img{
+  height: 50vh;
+  justify-content: center;
+}
+.header-nav ul{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-nav ul li{
+  list-style: none;
+  padding: 10px;
+  border: 2px white solid;
+  border-radius: 15px;
+}
+
+h1 {
+  text-align: center;
+  align-content: center;
+}
+
+.header-nav ul li:last-child{
+  margin-right: 20px;
+}

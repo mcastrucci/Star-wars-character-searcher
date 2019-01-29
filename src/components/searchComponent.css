@@ -1,0 +1,5 @@
+.search-component-div{
+    display: grid;
+    background: linear-gradient(rgba(0, 0, 0, 0.418), rgba(255, 255, 255, 0.452));
+    grid-template-columns: repeat(3, 1fr);
+}
